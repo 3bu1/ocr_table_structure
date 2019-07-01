@@ -1,7 +1,7 @@
 No. Name and Reservation Status of Assembly Constituency : 1 - NERELA Part No.-
 (GEN) 1
 No. Name and Reservation Status of Parliamentary Constituency(ies) in which the Assembly
-Constituency is located - 5- NORTH WEST DELHI (Sc)
+Constituency is located -* 5- NORTH WEST DELHI (Sc)
 1. Details of Revision
 Roll Identification
 Basic roll of intensive revision, 2008
@@ -18,14 +18,14 @@ Date of Publication
 
 01-01-2019
 
-‘Special Summary
+‘*Special Summary
 Revision, 2019
 
 01-09-2018
 2. DETAILS OF PART AND POLLING AREA
 No. and name of sections in the part
-1. CHAKKI WALI GALI, VILLAGE LAMPUR ( 1 TO 2.96 )
-2. KOTLA GALI , VILLAGE LAMPUR ( 2 TO NOSKH37/6/2 )
+1. CHAKKI WALI GALI, VILLAGE LAMPUR ( 1 TO 2*.*96 )
+2. KOTLA GALI , VILLAGE LAMPUR ( 2 TO NOS*KH37/6/2 )
 3, RAMLILA GROUND, VILLAGE LAMPUR (2 TO KH-38/15
 )
 4, SHIV MANDIR GALI, VILLAGE LAMPUR ( 8 TO KH-NO- )
@@ -35,7 +35,7 @@ Ward No.
 
 Police Station
 
-Tohst
+To*hst*
 
 District
 
@@ -44,32 +44,17 @@ Pin
  
 
 Delhi
-8N
+8*N
 NARELA
 NARELA
 NORTH
-‘10040
-Main Town or Vilege
-Ward No.
+‘*10040
 
-Pale Station
-
-Tohst
-
-District
-
-Pin
-
-8N
-NARELA
-NARELA
-NORTH
-0040
 3. POLLING STATION DETAILS
 ‘General
 ‘Type of Polling Station
 (Male/Female/General)
-No. and Name of Polling Station -
+No. and Name of Polling Station -*
 1-VILL LAMPUR
 
 Address of Polling Station :
@@ -86,9 +71,9 @@ Starting
 Serial No.
 Female
 
-| Third Gender |
+|* Third Gender |*
 
 Total
-450 385 4 836
+450 385 4* 836
 836
 

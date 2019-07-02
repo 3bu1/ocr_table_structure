@@ -36,7 +36,7 @@ def box_extraction(img_for_box_extraction_path, cropped_dir_path):
     cv2.imwrite("Image_bin.jpg",img_bin)
    
     # Defining a kernel length
-    kernel_length = np.array(img).shape[1]//40
+    kernel_length = np.array(img).shape[1]//80
      
     # A verticle kernel of (1 X kernel_length), which will detect all the verticle lines from the image.
     verticle_kernel = cv2.getStructuringElement(cv2.MORPH_RECT, (1, kernel_length))
@@ -90,4 +90,4 @@ def box_extraction(img_for_box_extraction_path, cropped_dir_path):
     cv2.imwrite("./Temp/img_contour.jpg", img)
 
 
-box_extraction("41.jpg", "./Cropped/")
+box_extraction("test6.png", "./Cropped/")
